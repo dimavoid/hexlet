@@ -1,3 +1,4 @@
-import hello from './introduction-to-programming/hello';
+import sumSquareDifference from './introduction-to-programming/sumSquareDifference';
+import invertCase from './introduction-to-programming/invertCase';
 
-console.log(hello());
+console.log(invertCase('Hello, World!'));
